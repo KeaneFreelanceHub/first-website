@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+  }
+  
+  h1,h2 {
+    color: lightblue;
+    font-size: 55;
+    font-style: bold;
+  }
+
+  p,li {
+    color: lightblue;
+  }
+
+  a{
+    color: lightcoral;
+ 
+  }
