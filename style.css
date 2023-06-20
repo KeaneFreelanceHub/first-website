@@ -4,8 +4,7 @@ body {
   
   h1,h2 {
     color: lightblue;
-    font-size: 55;
-    font-style: bold;
+    font-style: italic;
   }
 
   p,li {
